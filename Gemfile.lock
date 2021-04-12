@@ -15,7 +15,7 @@ GEM
       git (>= 1.2.5)
       rake
       rdoc
-    json (1.7.3)
+    json (1.8.6)
     mechanize (2.5.1)
       domain_name (~> 0.5, >= 0.5.1)
       mime-types (~> 1.17, >= 1.17.2)
